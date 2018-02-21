@@ -30,7 +30,7 @@ The websites are sorted alphabetically by last name.
 * [Brian Sittinger](http://faculty.csuci.edu/brian.sittinger/)  📈
 * [Michael Soltys](http://soltys.cs.csuci.edu) 💻
 * [Peter Smith](http://faculty.csuci.edu/peter.smith/) 💻
-  These pages contain many intresting and valubale links. The legendary notes page for comp162 is 👌.
+  These pages contain intresting and valubale links. The notes page for comp162 is 👌.
 * [Brian Thoms](http://www.brianthoms.com) 💻
 
 ### Students/Alumni
