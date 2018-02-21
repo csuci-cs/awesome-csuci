@@ -2,7 +2,7 @@
 A curated list of awesome websites, projects, research, frameworks, libraries, and software by CSUCI students, faculty, and alumni
 
 ## Websites
-Personal websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
+Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
 
 Emoji noting department and/or major may accompany a name.
  * 💻: Computer Science
