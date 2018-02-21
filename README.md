@@ -1,6 +1,9 @@
 # awesome-csuci
 A curated list of awesome websites, projects, research, frameworks, libraries, and software by CSUCI students, faculty, and alumni
 
+## Books
+* [An Introduction to the Analysis of Algorithms](http://www.worldscientific.com/worldscibooks/10.1142/10875) by Michael Soltys.
+
 ## Websites
 Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni. The websites are sorted alphabetically by last name.
 
