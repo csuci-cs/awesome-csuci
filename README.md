@@ -1,4 +1,4 @@
-# awesome-csuci
+# awesome-csuci [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome websites, projects, research, frameworks, libraries, and software by CSUCI students, faculty, and alumni
 
 Please check out the contributing.md for instructions on how to add to this list.
