@@ -6,8 +6,9 @@ Personal websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alum
 
 ### Faculty
 We have some pretty awesome professors/lecturers here are some links to their pages.
-_The names are sorted alphabetically by last name._
-**Note: checkout the publications pages/sections on these sites for capstone ideas.**
+The websites are sorted alphabetically by last name of faculty.
+
+**Checkout the publications pages/sections on these sites for capstone ideas.**
 
 * [Leo Benegas's Webpage](http://faculty.csuci.edu/leo.benegas/) 
 * [Andrzej (A.J.) Bieszczad's Website](http://ajb.cirainbow.csuci.edu/ajb/)
