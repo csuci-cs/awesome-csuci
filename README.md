@@ -5,13 +5,13 @@ A curated list of awesome websites, projects, research, frameworks, libraries, a
 * [An Introduction to the Analysis of Algorithms](http://www.worldscientific.com/worldscibooks/10.1142/10875) by Michael Soltys.
 
 ## Websites
-Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni. The websites are sorted alphabetically by last name.
+Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
 
 Emoji noting department and/or major may accompany a name.
  * 💻: Computer Science
  * ⚛️: Applied Physics
  * 📈: Math
-  
+
 ### Faculty
 We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites.
 
