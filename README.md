@@ -2,7 +2,7 @@
 A curated list of awesome websites, projects, research, frameworks, libraries, and software by CSUCI students, faculty, and alumni
 
 ## Websites
-Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
+Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni. The websites are sorted alphabetically by last name.
 
 Emoji noting department and/or major may accompany a name.
  * 💻: Computer Science
@@ -11,7 +11,6 @@ Emoji noting department and/or major may accompany a name.
   
 ### Faculty
 We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites.
-The websites are sorted alphabetically by last name.
 
 **Checkout the publications pages/sections on these sites for capstone ideas.**
 
@@ -34,7 +33,6 @@ The websites are sorted alphabetically by last name.
 * [Brian Thoms](http://www.brianthoms.com) 💻
 
 ### Students/Alumni
-The websites are sorted alphabetically by last name.
 
 * [Dylan Hart](http://dylanh.art) 💻
 * [Christopher Hunter](https://crhntr.com) 💻
