@@ -17,7 +17,6 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 
 **Checkout the publications pages/sections on these sites for capstone ideas.**
 
-* [Leo Benegas](http://faculty.csuci.edu/leo.benegas/) 💻
 * [Andrzej (A.J.) Bieszczad](http://ajb.cirainbow.csuci.edu/ajb/) 💻
 * [David Claveau](http://faculty.csuci.edu/David.Claveau/) 💻
 * [Houman Dallali](http://www.hdallali.com) 💻
