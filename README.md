@@ -39,4 +39,4 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 ### Students/Alumni
 
 * [Dylan Hart](http://dylanh.art) 💻
-* [Christopher Hunter](https://crhntr.com) 💻
+* [Christopher Hunter](http://crhntr.com) 💻
