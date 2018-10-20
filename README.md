@@ -8,8 +8,6 @@ Please check out the contributing.md for instructions on how to add to this list
    - 💻: Computer Science
    - ⚛️: Applied Physics
    - 📈: Math
- * People
-   - 🎓: Alumni
    
 ## Books
 * [An Introduction to the Analysis of Algorithms](http://www.worldscientific.com/worldscibooks/10.1142/10875) by Michael Soltys.
@@ -43,5 +41,8 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 
 ### Students/Alumni
 
-* [Dylan Hart](http://dylanh.art) 💻 🎓
-* [Christopher Hunter](http://crhntr.com) 💻 🎓
+#### Class of 2019
+
+#### Class of 2018
+* [Dylan Hart](http://dylanh.art) 💻 
+* [Christopher Hunter](http://crhntr.com) 💻 
