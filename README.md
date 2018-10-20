@@ -45,11 +45,14 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 #### Class of 2019
 
 #### Class of 2018
-* [Dylan Hart](http://dylanh.art) 💻 
-* [Christopher Hunter](http://crhntr.com) 💻 
-* [Winter Smith](https://github.com/ImSummerJohnson) 💻 
-* [Lex Cllette](https://github.com/lexcollette) 💻 
+* [Dylan Hart](http://dylanh.art) 💻
+* [Christopher Hunter](http://crhntr.com) 💻
+* [Winter Smith](https://github.com/ImSummerJohnson) 💻
+* [Lex Cllette](https://github.com/lexcollette) 💻
+
+#### Class of 2017
+* [Kristen Godinez](https://github.com/kristengodinez) 💻
 
 #### Class of 2016
-* [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick)
+* [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick) 💻
 
