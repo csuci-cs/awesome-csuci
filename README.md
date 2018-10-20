@@ -16,7 +16,7 @@ Please check out the contributing.md for instructions on how to add to this list
 Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
 
 ### Faculty
-We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites.
+We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites or GitHub.
 
 *Checkout the publications pages/sections on these sites for capstone ideas.*
 
@@ -35,6 +35,7 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Peter Smith](http://faculty.csuci.edu/peter.smith/) 💻
   These pages contain intresting and valubale links. The notes page for comp162 is 👌.
 * [Brian Thoms](http://www.brianthoms.com) 💻
+* [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick) 💻
 
 #### Previous Faculty
 * [David Claveau](http://faculty.csuci.edu/David.Claveau/) 💻
