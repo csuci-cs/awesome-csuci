@@ -20,7 +20,6 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 **Checkout the publications pages/sections on these sites for capstone ideas.**
 
 * [Andrzej (A.J.) Bieszczad](http://ajb.cirainbow.csuci.edu/ajb/) 💻
-* [David Claveau](http://faculty.csuci.edu/David.Claveau/) 💻
 * [Houman Dallali](http://www.hdallali.com) 💻
 * [Geoff Dougherty](http://faculty.csuci.edu/geoff.dougherty/) ⚛️
 * [Cynthia Flores](http://cynthia.cikeys.com) 📈
@@ -35,6 +34,9 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Peter Smith](http://faculty.csuci.edu/peter.smith/) 💻
   These pages contain intresting and valubale links. The notes page for comp162 is 👌.
 * [Brian Thoms](http://www.brianthoms.com) 💻
+
+#### Previous Faculty
+* [David Claveau](http://faculty.csuci.edu/David.Claveau/) 💻
 
 ### Students/Alumni
 
