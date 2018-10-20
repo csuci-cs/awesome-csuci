@@ -17,7 +17,7 @@ Emoji noting department and/or major may accompany a name.
 ### Faculty
 We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites.
 
-**Checkout the publications pages/sections on these sites for capstone ideas.**
+*Checkout the publications pages/sections on these sites for capstone ideas.*
 
 * [Andrzej (A.J.) Bieszczad](http://ajb.cirainbow.csuci.edu/ajb/) 💻
 * [Houman Dallali](http://www.hdallali.com) 💻
