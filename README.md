@@ -3,16 +3,19 @@ A curated list of awesome websites, projects, research, frameworks, libraries, a
 
 Please check out the contributing.md for instructions on how to add to this list.
 
+### Emoji Key
+ * Discipline
+   - 💻: Computer Science
+   - ⚛️: Applied Physics
+   - 📈: Math
+ * People
+   - 🎓: Alumni
+   
 ## Books
 * [An Introduction to the Analysis of Algorithms](http://www.worldscientific.com/worldscibooks/10.1142/10875) by Michael Soltys.
 
 ## Websites
 Personal/professional websites (blogs, portfolios, ect.) of CSUCI students, faculty, and alumni.
-
-Emoji noting department and/or major may accompany a name.
- * 💻: Computer Science
- * ⚛️: Applied Physics
- * 📈: Math
 
 ### Faculty
 We have some pretty awesome professors/lecturers at CSUCI here are some links to their websites.
@@ -40,5 +43,5 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 
 ### Students/Alumni
 
-* [Dylan Hart](http://dylanh.art) 💻
-* [Christopher Hunter](http://crhntr.com) 💻
+* [Dylan Hart](http://dylanh.art) 💻 🎓
+* [Christopher Hunter](http://crhntr.com) 💻 🎓
