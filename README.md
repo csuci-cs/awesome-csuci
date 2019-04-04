@@ -37,9 +37,6 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Brian Thoms](http://www.brianthoms.com) 💻
 * [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick) 💻
 
-#### Previous Faculty
-* [David Claveau](http://faculty.csuci.edu/David.Claveau/) 💻
-
 ### Students/Alumni
 
 #### Class of 2019
