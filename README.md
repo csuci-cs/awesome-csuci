@@ -48,8 +48,8 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Lex Cllette](https://github.com/lexcollette) 💻
 
 #### Class of 2017
+* [Chandler Giusti](https://www.linkedin.com/in/chandler-giusti-3155b1b0/) 💻
 * [Kristen Godinez](https://github.com/kristengodinez) 💻
 
 #### Class of 2016
 * [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick) 💻
-
