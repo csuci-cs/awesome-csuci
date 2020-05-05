@@ -31,7 +31,7 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Roger Roybal](http://faculty.csuci.edu/roger.roybal/) 📈
 * [Kevin Scrivnor](http://scrivnor.cikeys.com)  💻
 * [Brian Sittinger](http://faculty.csuci.edu/brian.sittinger/)  📈
-* [Michael Soltys](http://soltys.cs.csuci.edu) 💻
+* [Michael Soltys](http://www.msoltys.com) 💻
 * [Peter Smith](http://faculty.csuci.edu/peter.smith/) 💻
   These pages contain intresting and valubale links. The notes page for comp162 is 👌.
 * [Brian Thoms](http://www.brianthoms.com) 💻
