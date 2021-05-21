@@ -39,9 +39,13 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 
 ### Students/Alumni
 
+#### Class of 2020
+
+* [Kirsty Alexandra Nguegang](https://github.com/kirstyalexandra) 💻
+
 #### Class of 2019
 
-* [Kirsty Alexandra Nguegang](https://github.com/kirstyalexandra)
+* [Julia (Yulia) Maliauka](https://github.com/git-yulia) 💻
 
 #### Class of 2018
 * [Dylan Hart](http://dylanh.art) 💻
