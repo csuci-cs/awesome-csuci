@@ -41,6 +41,8 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 
 #### Class of 2019
 
+* [Kirsty Alexandra Nguegang](https://github.com/kirstyalexandra)
+
 #### Class of 2018
 * [Dylan Hart](http://dylanh.art) 💻
 * [Christopher Hunter](http://crhntr.com) 💻
