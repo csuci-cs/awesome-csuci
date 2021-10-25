@@ -33,7 +33,7 @@ We have some pretty awesome professors/lecturers at CSUCI here are some links to
 * [Brian Sittinger](http://faculty.csuci.edu/brian.sittinger/)  📈
 * [Michael Soltys](http://www.msoltys.com) 💻
 * [Peter Smith](http://faculty.csuci.edu/peter.smith/) 💻
-  These pages contain intresting and valubale links. The notes page for comp162 is 👌.
+  These pages contain interesting and valuable links. The notes page for comp162 is 👌.
 * [Brian Thoms](http://www.brianthoms.com) 💻
 * [Nicholas (Nick) Dolan-Stern](https://github.com/sirocknick) 💻
 
